@@ -4,7 +4,7 @@
 
  Representational State Transfer.
 
-### What is an identifer of a resource? Give an example.
+### What is an identifier of a resource? Give an example.
 
  A resource has an identifier, which is a URI that uniquely identifies that resource. For example, the URI for a particular customer order might be:
 
